@@ -1,3 +1,3 @@
 # Drum machine using react
 
-Live at: https://codepen.io/mujtabasaqib/pen/qBvxxOw
+Live at: https://codepen.io/mujtabasaqib/full/qBvxxOw
